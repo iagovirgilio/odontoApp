@@ -1,0 +1,8 @@
+{
+  "name": "odontoApp",
+  "app_id": "88247423",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
